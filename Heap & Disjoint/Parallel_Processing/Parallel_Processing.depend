@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591846457 source:/home/amrelsersy/Desktop/Data Structure/Week2/Parallel_Processing/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+

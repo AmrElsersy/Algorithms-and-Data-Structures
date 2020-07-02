@@ -57,23 +57,8 @@ int main() {
 
 	FindinFirst(First, n, Second, k);
 }
-/*
-int main()
-{
-    int n ; cin >> n ;
-    vector<int> arr(n);
-    for ( int i =0 ; i < n ; i ++ ) cin >> arr[i];
-
-
-    int k ; cin >> k ;
-    for ( int i =0 ; i < k ; i++)
-    {
-        int x ; cin >> x;
-        cout << binary_search_iterative(arr,x) << " ";
-    }
-    cout << endl;
 
 
     return 0;
 }
-*/
+
